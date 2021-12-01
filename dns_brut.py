@@ -34,5 +34,5 @@ while True:
                     os.system('clear')
                     a = 0           
         except Exception as erro:
-             print(f'erro: {erro}\n')          
+            print(f'erro: {erro}\n')          
             sleep(3)
